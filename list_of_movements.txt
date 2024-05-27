@@ -1,0 +1,45 @@
+1.	Ball
+2.	Bear
+3.	Book
+4.	Building blocks
+5.	Clapping
+6.	Crab
+7.	Cupboard
+8.	Doorhandle
+9.	Drawing
+10.	Drinking
+11.	Dwarf
+12.	Face wash
+13.	Frog
+14.	Glass lifting
+15.	Glass to mouth
+16.	Glass grabbing
+17.	Goliath
+18.	Hand wash
+19.	Hopscotch
+20.	Knee other
+21.	Knee same
+22.	Lame fox
+23.	Light off
+24.	Light on
+25.	No Movement
+26.	Nose
+27.	Peck
+28.	Pray
+29.	Pudding eat
+30.	Rabbit
+31.	Seal
+32.	Shoe off other
+33.	Shoe off same
+34.	Shoe on other
+35.	Shoe on same
+36.	Snack eat
+37.	Snack open
+38.	Sock off other
+39.	Sock off same
+40.	Sock on other
+41.	Sock on same
+42.	Spider
+43.	Swimming
+44.	Toothbrush other
+45.	Toothbrush same

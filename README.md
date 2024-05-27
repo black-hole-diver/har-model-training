@@ -1,6 +1,7 @@
 # Human Activity Recognition Model Training
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Python](https://img.shields.io/badge/python-v3.8-blue.svg)
 
 This repository contains all the codes used for data cleaning, data processing, model training, and model deployment for the thesis "Machine Learning Based Real-time Movement Detection of Children" (BSc Thesis, 2024, ELTE IK).
 
